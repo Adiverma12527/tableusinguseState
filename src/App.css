@@ -1,5 +1,31 @@
-.App {
-  text-align: center;
+body{
+  background-color:aliceblue ;
+}
+.full{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+}
+.table{border: 5px solid black;
+
+}
+.tableheading{border: 2px solid black;
+
+}
+.tableraw{ 
+  border: 2px solid black;
+
+}
+.tabledata{
+  border: 2px solid black;
+
+}
+.App {border: 5px solid green;
+  width: 300px;
+  background-color: #61dafb;
+  
+
 }
 
 .App-logo {
